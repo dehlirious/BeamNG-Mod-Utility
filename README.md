@@ -12,16 +12,12 @@ This script is designed to process mods for BeamNG, extracting relevant informat
 
 ## Demos
 
-### Console Output
 
+### Console Output
+![Animation](https://github.com/dehlirious/BeamNG-Mod-Utility/assets/25449483/a1c25124-9d9e-42fe-b585-47fdf361d36c)
 
 ### Generated HTML Page
-
-## Why?
-
-Sick of having mods that dont have icons, or that have a completely different name in game than the zip causing me to not be able to find the mod.
-Why powershell? No real reason, might switch eventually considering I already have to use python to parse the json.
-This script may or may not be maintained. 
+![Animation23](https://github.com/dehlirious/BeamNG-Mod-Utility/assets/25449483/1250a93f-e81f-49cc-b4e3-44559eea973b)
 
 ## Usage
 
