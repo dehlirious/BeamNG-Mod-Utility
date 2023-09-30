@@ -23,7 +23,8 @@ This script is designed to process mods for BeamNG, extracting relevant informat
 
 1. Clone the repository or download the script.
 2. Modify the `$modPath` variable in the script to point to your BeamNG mods directory.
-3. Run the script using PowerShell.
+3. *FOR THE TIME BEING* Extract mods into folders. Will directly add the ability to process .zip files soon!
+4. Run the script using PowerShell.
 
 ```powershell
 .\script.ps1
