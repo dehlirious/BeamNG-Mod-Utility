@@ -33,3 +33,4 @@ if __name__ == "__main__":
         json_file_path = sys.argv[1]
         result = process_json_file(json_file_path)
         sys.stdout.buffer.write(result.encode('utf-8'))
+#
