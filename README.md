@@ -4,7 +4,6 @@ This script is designed to process mods for BeamNG, extracting relevant informat
 
 ## Features
 
-- **BBCode to HTML Conversion**: Converts BBCode content in mod descriptions to HTML format.
 - **Mod Information Extraction**: Extracts details such as mod name, icon, type, configurations, and more.
 - **HTML Generation**: Generates an HTML file that provides a visual representation of the mods.
 - **Unwanted File Removal**: Removes specific unwanted files from the mod directory.
