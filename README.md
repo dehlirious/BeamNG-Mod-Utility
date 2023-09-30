@@ -6,7 +6,6 @@ This script is designed to process mods for BeamNG, extracting relevant informat
 
 - **Mod Information Extraction**: Extracts details such as mod name, icon, type, configurations, and more.
 - **HTML Generation**: Generates an HTML file that provides a visual representation of the mods.
-- **Unwanted File Removal**: Removes specific unwanted files from the mod directory.
 - **JSON Parser**: Using python, json can be parsed in such a way to remove most json syntax errors that occur when trying to handle beamng .json files in PowerShell.
 
 ## Demos
