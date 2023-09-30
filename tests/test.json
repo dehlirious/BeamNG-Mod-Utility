@@ -1,0 +1,211 @@
+{
+    "attachments": [
+        {
+            "data_filename": "380711.png",
+            "original_filename": "turbo.png",
+            "thumb_filename": "thumbs\/380711.jpg"
+        }
+    ],
+    "resource_id": 3339,
+    "current_version_id": 35915,
+    "download_count": 0,
+    "resource_version_id": 36053,
+    "version_string": "2.7",
+    "last_update": 1638178449,
+    "rating_avg": 4.83333,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 7,
+    "resource_date": 1518431704,
+    "review_count": 24,
+    "tag_line": "Did somebody say turbos?",
+    "update_count": 30,
+    "path": "MQKDSLB92\/35915\/",
+    "filename": "turbointakes.zip",
+    "title": "Intakes",
+    "user_id": 199076,
+    "username": "Alex_Farmer557",
+    "tagid": "MQKDSLB92",
+    "message": "Current Supported Engines:\nPiccolina F4\nBarstow I6 & V8\nBurnside 313 V8\nEtk 3.0L I6 diesel\nBluebuck I6\n4.1l Gavril I6\nMiramar 1.6 & 1.9 engines\nLegran I4 & V6\nPessima I4 (mk1)\nMoonhawk I6\nPigeon 500 & 1300cc engine\nWigeon 500 & 1300cc engine\nHopper I4 & I6\nBolide V8\nVivace I5\nEnjoy!\n[ATTACH]380711[\/ATTACH]",
+    "category_title": "",
+    "prefix_title": "Beta",
+    "via": "packed by repo on Sat, 04 Dec 2021 03:00:53 GMT",
+    "hashes": [
+        [
+            "vehicles\/barstow\/barstow_block_heavy_duty.jbeam",
+            "6d4129bcb76ffa9e"
+        ],
+        [
+            "vehicles\/barstow\/barstow_revlimiter.jbeam",
+            "14e531459f678e12"
+        ],
+        [
+            "vehicles\/barstow\/barstow_turbo.jbeam",
+            "67f7fb65955e6cda"
+        ],
+        [
+            "vehicles\/common\/pigeon\/turbo.jbeam",
+            "d3fee985bd1dbf4e"
+        ],
+        [
+            "vehicles\/common\/pickup\/pickup_turbo_i6.jbeam",
+            "df67047a8b2033db"
+        ],
+        [
+            "vehicles\/common\/pickup\/pickup_longblock_i6.jbeam",
+            "f70a2e02f168ca11"
+        ],
+        [
+            "vehicles\/common\/pickup\/revlimiter.jbeam",
+            "38e03ef9e3e86dfd"
+        ],
+        [
+            "vehicles\/common\/etk\/etk_turbo_i6.jbeam",
+            "af2927304d541aa1"
+        ],
+        [
+            "vehicles\/common\/etk\/etk_turboreek.jbeam",
+            "05ff066615e84d2a"
+        ],
+        [
+            "vehicles\/van\/van_longblock_i6.jbeam",
+            "6b9f71cb0d479fb9"
+        ],
+        [
+            "vehicles\/van\/stockturbo.png",
+            "b6a8e4f7b97b18b7"
+        ],
+        [
+            "vehicles\/van\/van_turbo_i6.jbeam",
+            "02f7bf880e61b839"
+        ],
+        [
+            "vehicles\/van\/info_stockturbo.json",
+            "d446a56f19e865a3"
+        ],
+        [
+            "vehicles\/van\/stockturbo.pc",
+            "ddef241ddf4b3aee"
+        ],
+        [
+            "vehicles\/legran\/turbo.jbeam",
+            "a73795461e573296"
+        ],
+        [
+            "vehicles\/legran\/heavy_duty_block.jbeam",
+            "20c155dd6c2dd117"
+        ],
+        [
+            "vehicles\/super\/super_turbo.jbeam",
+            "bc255f0d3a9d4f96"
+        ],
+        [
+            "vehicles\/autobello\/turbo.jbeam",
+            "d0c38ccb2c86e781"
+        ],
+        [
+            "vehicles\/autobello\/heavy_duty_block.jbeam",
+            "39dfab4c539ae825"
+        ],
+        [
+            "vehicles\/burnside\/burnside_block_heavy_duty.jbeam",
+            "9e72f1c7d0cd5c66"
+        ],
+        [
+            "vehicles\/burnside\/burnside_turbo.jbeam",
+            "e44477a5621c5574"
+        ],
+        [
+            "vehicles\/moonhawk\/turbo.jbeam",
+            "59007d2cbb5932db"
+        ],
+        [
+            "vehicles\/moonhawk\/turbo_4banger.jbeam",
+            "49fb950ebb68f812"
+        ],
+        [
+            "vehicles\/moonhawk\/heavy_duty_block.jbeam",
+            "5a721ee9752fff9a"
+        ],
+        [
+            "vehicles\/hopper\/turbo.png",
+            "ce6852adb221eb08"
+        ],
+        [
+            "vehicles\/hopper\/turbo.jbeam",
+            "f38f204a0b277de3"
+        ],
+        [
+            "vehicles\/hopper\/info_turbo.json",
+            "d342ec4141afc90d"
+        ],
+        [
+            "vehicles\/hopper\/heavy_duty_block.jbeam",
+            "1c9058bc9aff4e99"
+        ],
+        [
+            "vehicles\/hopper\/turbo.pc",
+            "7028de782e26178f"
+        ],
+        [
+            "vehicles\/vivace\/vivace_i5 tuningparts.jbeam",
+            "7c4776f165125875"
+        ],
+        [
+            "vehicles\/vivace\/pigbits\/vivigeon.dae",
+            "4cc2504b1d9bce4a"
+        ],
+        [
+            "vehicles\/vivace\/pigbits\/vivace_transaxle_cheap.jbeam",
+            "6ca0e0ddabe6ec8d"
+        ],
+        [
+            "vehicles\/vivace\/pigbits\/vivace_exhaust_cheap.jbeam",
+            "529c927b4f331846"
+        ],
+        [
+            "vehicles\/vivace\/pigbits\/main.materials.json",
+            "89af9c4b48712aee"
+        ],
+        [
+            "vehicles\/vivace\/pigbits\/vivace_pigeon_engine.jbeam",
+            "c828b93537f001fd"
+        ],
+        [
+            "vehicles\/vivace\/vivace_NA.jbeam",
+            "1af198d02371c042"
+        ],
+        [
+            "vehicles\/vivace\/pigeon.png",
+            "9f786e1b307c1277"
+        ],
+        [
+            "vehicles\/vivace\/pigeon.pc",
+            "d9628d089be516c1"
+        ],
+        [
+            "vehicles\/bluebuck\/bluebuck_turbo.jbeam",
+            "92c32d756cd88f0f"
+        ],
+        [
+            "vehicles\/bluebuck\/bluebuck_block_heavy_duty.jbeam",
+            "06c7a08f5954d22a"
+        ],
+        [
+            "vehicles\/bluebuck\/bluebuck_revlimiter.jbeam",
+            "f2e43fb79e752e3a"
+        ],
+        [
+            "vehicles\/miramar\/miramar_turbo.jbeam",
+            "c05d2fa59f7bcf5e"
+        ],
+        [
+            "vehicles\/miramar\/heavy_duty_block.jbeam",
+            "964708185ea6fa1d"
+        ],
+        [
+            "vehicles\/miramar\/miramar_turbo_midsize.jbeam",
+            "6bc7ab2a5bc80e6f"
+        ]
+    ]
+}
